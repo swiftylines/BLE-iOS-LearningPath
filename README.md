@@ -8,6 +8,16 @@ Open and free sources for learning BLE on iOS. Tutorials, Projects and more.
 ### [Core Bluetooth Tutorial - Kodeco](https://www.kodeco.com/231-core-bluetooth-tutorial-for-ios-heart-rate-monitor)
 ### [BLE peripheral simulator - Mostafa Mazrouh](https://medium.com/swift2go/connecting-ios-device-to-bluetooth-low-energy-ble-peripheral-simulator-37acd0f05261)
 
+
+## Video Tutorials/Talks
+[An Introduction to Bluetooth Low Energy for Swift Developers](https://www.youtube.com/watch?v=YHeCH-OfWY0)
+[Bluetooth + Swift it's a match](https://www.youtube.com/watch?v=nB8yVVw2Z8I)
+[Core Bluetooth in Swift](https://www.youtube.com/watch?v=n-f0BwxKSD0)
+[Microcontrollers for iOS Developers: Part 3 - CoreBluetooth - BLE](https://www.youtube.com/watch?v=5K8W1j_dC3U)
+[Bluetooth LE Playlist](https://www.youtube.com/watch?v=NtvM6F4CERs&list=PL5CNda3uAmWxL7eqlf5MO88SjvKNKlnWz)
+
+
+
 ## Opensource Frameworks
 ### [BluetoothKit](https://github.com/rhummelmose/BluetoothKit)
 ### [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit)
