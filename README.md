@@ -10,11 +10,11 @@ Open and free sources for learning BLE on iOS. Tutorials, Projects and more.
 
 
 ## Video Tutorials/Talks
-[An Introduction to Bluetooth Low Energy for Swift Developers](https://www.youtube.com/watch?v=YHeCH-OfWY0)
-[Bluetooth + Swift it's a match](https://www.youtube.com/watch?v=nB8yVVw2Z8I)
-[Core Bluetooth in Swift](https://www.youtube.com/watch?v=n-f0BwxKSD0)
-[Microcontrollers for iOS Developers: Part 3 - CoreBluetooth - BLE](https://www.youtube.com/watch?v=5K8W1j_dC3U)
-[Bluetooth LE Playlist](https://www.youtube.com/watch?v=NtvM6F4CERs&list=PL5CNda3uAmWxL7eqlf5MO88SjvKNKlnWz)
+### [An Introduction to Bluetooth Low Energy for Swift Developers](https://www.youtube.com/watch?v=YHeCH-OfWY0)
+### [Bluetooth + Swift it's a match](https://www.youtube.com/watch?v=nB8yVVw2Z8I)
+### [Core Bluetooth in Swift](https://www.youtube.com/watch?v=n-f0BwxKSD0)
+### [Microcontrollers for iOS Developers: Part 3 - CoreBluetooth - BLE](https://www.youtube.com/watch?v=5K8W1j_dC3U)
+### [Bluetooth LE Playlist](https://www.youtube.com/watch?v=NtvM6F4CERs&list=PL5CNda3uAmWxL7eqlf5MO88SjvKNKlnWz)
 
 
 
